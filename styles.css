@@ -1,0 +1,14 @@
+body {
+  background-image: url('https://www.cheatsheet.com/wp-content/uploads/2017/12/alien-ufo-spaceship-1-768x432.jpg');
+}
+
+table{
+    background-color: lightblue;
+    
+}
+
+.jumbotron{
+
+    background-color: lightblue;
+    color: darkslategray
+}
